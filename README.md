@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Subhamoy Chowdhury</h1>
 
-<!--
-**riju3/riju3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=08F2D3&center=true&vCenter=true&width=435&lines=Subhamoy+Chowdhury+;Developer+%7C+Designer+%7C+Editor;Always+building+something+new+%F0%9F%9A%80;Welcome+to+my+profile!" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/subhamoy-chowdhury-8a149035a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/riju3">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=riju3&style=for-the-badge&color=08F2D3" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riju3&show_icons=true&theme=tokyonight" />
+</p>
