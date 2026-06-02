@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=08F2D3&center=true&vCenter=true&width=500&lines=Subhamoy+Chowdhury+;Developer+%7C+Designer+%7C+Editor;Always+building+something+new+%F0%9F%9A%80;Welcome+to+my+profile!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=08F2D3&center=true&vCenter=true&width=500&lines=Subhamoy+Chowdhury+;Developer+%7C+Designer+%7C+Editor;Always+building+something+new+%F0%9F%9A%80;" />
   </a>
 </p>
 
